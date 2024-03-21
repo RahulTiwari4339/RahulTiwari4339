@@ -1,4 +1,4 @@
-###  👋  Hola, I am Rahul Kumar Tiwari 👨‍💻
+###  👋  Hola, I am Rahul Kumar Tiwari 
 
 <!--
 **RahulTiwari4339/RahulTiwari4339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
