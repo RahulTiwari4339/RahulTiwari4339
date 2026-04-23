@@ -23,7 +23,7 @@
 ```yaml
 Name: Rahul Kumar Tiwari
 Role: Full Stack Web Developer
-Experience: 2.5+ Years
+Experience: 3.5+ Years
 Location: Delhi, India
 Origin: Bihar, India
 Speciality:
