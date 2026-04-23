@@ -1,54 +1,66 @@
-
-<!-- ================= HEADER ================= -->
+<!-- ================= PREMIUM HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rahul%20Kumar%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20🚀&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=240&section=header&text=Rahul%20Kumar%20Tiwari&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Digital%20Products&descAlignY=58"/>
 </p>
 
+<h1 align="center">Rahul Kumar Tiwari</h1>
+<h3 align="center">Full Stack Developer • React • Next.js • Node.js</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=800&lines=Hi+There+%F0%9F%91%8B+I'm+Rahul+Kumar+Tiwari;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Scalable+Products;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Designing+Modern+Web+Experiences;Developing+Scalable+Applications;Frontend+Precision+with+Backend+Power;Consistent+Growth+Through+Code"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/RahulTiwari4339">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=RahulTiwari4339&style=for-the-badge&color=blueviolet" />
+  <a href="mailto:rahultiwari.dev.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RahulTiwari4339&style=for-the-badge&color=0ea5e9"/>
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+## About
 
 ```yaml
 Name: Rahul Kumar Tiwari
-Role: Full Stack Web Developer
-Experience: 3.5+ Years
-Location: Delhi, India
-Origin: Bihar, India
-Speciality:
+Role: Full Stack Developer
+Experience: 2.5+ Years
+Based In: Delhi, India
+Background: Bihar, India
+
+Core Expertise:
   - React.js
   - Next.js
   - Node.js
   - Fastify
   - MongoDB
   - Tailwind CSS
-Focus: Building scalable products, dashboards & automation systems
+
+Current Focus:
+  - High Performance Web Apps
+  - Dashboard Systems
+  - Real Time Platforms
+  - Automation Products
 ````
 
 ---
 
-# ⚡ Tech Arsenal
+## Technology Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,mongodb,express,firebase,tailwind,html,css,git,github,vscode,postman"/>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,mongodb,express,firebase,tailwind,html,css,git,github,vscode,postman&perline=8"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## Performance Overview
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulTiwari4339&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -56,20 +68,20 @@ Focus: Building scalable products, dashboards & automation systems
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulTiwari4339&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulTiwari4339&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulTiwari4339&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulTiwari4339&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RahulTiwari4339/RahulTiwari4339/output/github-contribution-grid-snake-dark.svg"/>
@@ -77,28 +89,36 @@ Focus: Building scalable products, dashboards & automation systems
 
 ---
 
-# 🎯 Current Focus
+## Current Work
 
-* 🚀 Advanced Full Stack Development
-* ⚙️ Real-Time Systems with Socket.IO
-* 📈 SaaS Products & Dashboards
-* 🔔 Push Notification Platforms
-* 🤖 Automation Workflows
+* Full stack product development
+* Real-time notification systems
+* Performance optimization
+* Dashboard architecture
+* Internal automation tools
 
 ---
 
-# 🌍 Connect With Me
+## Connect
 
 <p align="center">
-<a href="https://github.com/RahulTiwari4339"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/RahulTiwari4339">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:rahultiwari.dev.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💡 Dev Quote
+## Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -106,31 +126,7 @@ Focus: Building scalable products, dashboards & automation systems
 
 ---
 
-# 🎵 Spotify (Optional)
-
-```md
-Replace below username with your Spotify username:
-https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID&cover_image=true&theme=novatorem
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
+</p>
 ```
-
----
-
-# 📄 Resume Button
-
-<p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/Download%20Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-</p>
-
----
-
-# ✨ Motto
-
-> Code Smart. Build Fast. Stay Consistent.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
