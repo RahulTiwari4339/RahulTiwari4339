@@ -14,13 +14,12 @@
 <a href="mailto:rahultiwari.dev.work@gmail.com">
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/itrahultiwari">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RahulTiwari4339&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -146,13 +145,13 @@ The goal is simple:
 
 ### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastify"/>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,fastify"/>
 
 <br/><br/>
 
 ### Database & Platform
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,docker"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
 
 <br/><br/>
 
@@ -183,16 +182,6 @@ Replacing repetitive manual processes with reliable internal tools and automated
 Building backend services with a focus on clean architecture, performance, validation and maintainability.
 
 ---
-
-# 📈 GitHub
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=RahulTiwari4339&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&rank_icon=github"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulTiwari4339&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"/>
-
-</div>
 
 <br/>
 
